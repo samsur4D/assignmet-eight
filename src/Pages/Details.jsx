@@ -43,7 +43,7 @@ const handleWishList = (item) => {
     const existingWishList = JSON.parse(localStorage.getItem("wishList")) || [];
     
     const isNewArrayIncluded = existingWishList.some(book => book.bookId === item.bookId);
-    const isNewArrayIncluded2 = wishList.some(book => book.bookId === item.bookId);
+    const isNewArrayIncluded2 = readlist.some(book => book.bookId === item.bookId);
     
     if (isNewArrayIncluded) {
       console.log("The new array is already included in the main array.");

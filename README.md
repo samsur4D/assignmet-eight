@@ -1,8 +1,13 @@
-# React + Vite
+Name: Bookish Zone
+Link: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description
+This project is a BookStore website built using React.js. It allows users to browse and Read books online.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Huge Collection of Books
+Book browsing
+Read Online
+Mark books in your wish list
+See a dynamic chart of your read book's page count
+Vite + React

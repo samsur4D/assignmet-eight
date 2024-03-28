@@ -1,9 +1,19 @@
+import { useEffect, useState } from "react";
 import { ImLocation2 } from "react-icons/im";
 import { LiaUserFriendsSolid } from "react-icons/lia";
 import { MdInsertPageBreak } from "react-icons/md";
 import { Link } from "react-router-dom";
 
 const Author = () => {
+// 
+// ---------------------
+
+ 
+// -----------------
+
+
+
+
 
   const wishArray = JSON.parse(localStorage.getItem("wishList"))
  console.log(wishArray);

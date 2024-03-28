@@ -9,6 +9,7 @@ import Review from "../Pages/Review";
 import Footer from "../Components/Footer";
 import Contact from "../Pages/Contact";
 import Details from "../Pages/Details";
+import Error from "../Pages/Error";
 
 
 export const router = createBrowserRouter([
@@ -49,6 +50,10 @@ export const router = createBrowserRouter([
         {
           path: "/details/:id",
           element: <Details></Details>,
+        },
+        {
+          path: "*",
+          element: <Error></Error>
         },
   
       ]

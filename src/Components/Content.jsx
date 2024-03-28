@@ -56,7 +56,7 @@ console.log(readArray);
          <section className=" flex gap-4">
          <Link className="bg-blue-400 px-5 py-1 mt-4 rounded-lg text-white font-semibold">Catagory: {book.category}</Link>
          <Link className="bg-yellow-500 px-5 py-1 mt-4 rounded-lg text-white font-semibold">Rating: {book.rating}</Link>
-         <Link className="bg-green-900 px-5 py-1 mt-4 rounded-lg text-white font-semibold">View Details</Link>
+         <Link to={`/details/${book.bookId}`} className="bg-green-900 px-5 py-1 mt-4 rounded-lg text-white font-semibold">View Details</Link>
          </section>
          
          
