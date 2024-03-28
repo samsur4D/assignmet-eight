@@ -46,9 +46,16 @@ const Nav = () => {
             </NavLink>
 
             <NavLink to='/pagesRead' className={({isActive}) => isActive? 'ml-5 font-extrabold bg-red-200 border border-[#3B3B98] px-5 py-2 rounded-xl' : 'ml-5 font-bold px-5 py-2 rounded-xl bg-red-100 '}><a>Pages To Read</a></NavLink>
+
+            {/* ----------- */}
+            <NavLink to='/review' className={({isActive}) => isActive? 'ml-5 font-extrabold bg-red-200 border border-[#3B3B98] px-5 py-2 rounded-xl' : 'ml-5 font-bold px-5 py-2 rounded-xl bg-red-100 '}><a>Public Response</a></NavLink>
+
+            <NavLink to='/contact' className={({isActive}) => isActive? 'ml-5 font-extrabold bg-red-200 border border-[#3B3B98] px-5 py-2 rounded-xl' : 'ml-5 font-bold px-5 py-2 rounded-xl bg-red-100 '}><a>Contact</a></NavLink>
+            {/*  */}
           </ul>
         </div>
 
+             
 
         <div className="navbar-end flex gap-3">
           <a className="btn bg-green-600 text-white font-bold">Sign In</a>

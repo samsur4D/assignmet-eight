@@ -3,6 +3,7 @@ import Nav from "../Components/Nav";
 import Home from "../Pages/Home";
 import Listed from "../Pages/Listed";
 import PagesRead from "../Pages/PagesRead";
+import Footer from "../Components/Footer";
 
 
 const MainLayouts = () => {
@@ -17,8 +18,12 @@ const MainLayouts = () => {
                 <PagesRead></PagesRead> */}
                 
                       {/* outlet  একটা প্যাকেট  */}
+                      <div className="min-h-[calc(100vh-148px)]">
                       <Outlet></Outlet>
-                 
+                      </div>
+                <div className="mt-24">
+                    <Footer></Footer>
+                    </div> 
         </div>
     );
 };

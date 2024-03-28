@@ -1,8 +1,10 @@
 import React from 'react';
+import BrChart from '../Components/BrChart';
 const PagesRead = () => {
     return (
         <div>
-            <h1>Pages To Read</h1>
+          
+            <BrChart></BrChart>
         </div>
     );
 };

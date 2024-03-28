@@ -1,0 +1,122 @@
+
+
+[
+    {
+      "bookId": 1,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/gJ8mfCc/sincerely-media-CXYPfveiuis-unsplash.jpg",
+      "review": "A chilling portrayal of a dystopian society  that serves as a stark warning about the dangers of totalitarianisthat serves as a stark warning about the dangers of totalitarianisthat serves as a stark warning about the dangers of totalitarianis  that serves as a stark warning about the dangers of totalitarianisthat serves as a stark warning about the dangers of totalitarianisthat serves as a stark warning about the dangers of totalitarianism.",
+      "totalPages": 328,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Signet Classics",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Lee Jhon Se",
+      "image": "https://i.ibb.co/z7zfCHR/sincerely-media-VLc-Ep-a4-P7s-unsplash.jpg",
+      "review": "A profound exploration of  racial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American Southracial injustice and moral growth set in the American South.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Social Justice", "Coming of Age"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/C04W9F2/thought-catalog-Dx-Az-OKSi-Po-E-unsplash.jpg",
+      "review": "A captivating tale of love,wealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadencewealth, and the American Dream, set amidst the Jazz Age decadence.",
+      "totalPages": 180,
+      "rating": 4.6,
+      "category": "Drama",
+      "tags": ["Romance", "Classics"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/djJVfwW/thought-catalog-qk-CTQFXid-V8-unsplash-1.jpg",
+      "review": "An iconic coming-of-age novel that   resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion resonates with its portrayal of teenage angst and rebellion.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Teenage", "Identity"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/HPpbB9Y/madalyn-cox-O7ygzp-AL4-Mc-unsplash.jpg",
+      "review": "A timeless  romance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marrromance exploring societal norms and the complexities of love and marriage.",
+      "totalPages": 279,
+      "rating": 4.7,
+      "category": "Sciene Fiction",
+      "tags": ["Romance", "Classic Literature"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "Ancient Roots",
+      "author": "Shamur Rahak",
+      "image": "https://i.ibb.co/F6C36Nr/ikigloo-rc-YX3-O-V-6g-unsplash.jpg",
+      "review": "An enchanting adventure that introduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitants.",
+      "totalPages": 365,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 7,
+      "bookName": "The Hobbit",
+      "author": "Sharmin Alam",
+      "image": "https://i.ibb.co/vXmT5D6/cody-board-UMl-XDGx-Y6-Kc-unsplash.jpg",
+      "review": "An enchanting adventure that introduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitants.",
+      "totalPages": 350,
+      "rating": 4.5,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 8,
+      "bookName": "The Hitory of Planet",
+      "author": "Hmayun Joko",
+      "image": "https://i.ibb.co/Dfr1t1k/frosty-ilze-tf-YL1j1j-KNo-unsplash.jpg",
+      "review": "An enchanting adventure that introduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitants.",
+      "totalPages": 270,
+      "rating": 2.9,
+      "category": "Political",
+      "tags": ["Adventure", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 9,
+      "bookName": "The Robot",
+      "author": "Uio Lukais",
+      "image": "https://i.ibb.co/nz9RR2S/thought-catalog-J14-Dh-Kao-FHc-unsplash.jpg",
+      "review": "An enchanting adventure that introduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitantintroduces readers to the magical world of Middle-earth and its inhabitants.",
+      "totalPages": 277,
+      "rating": 3.9,
+      "category": "Fiction",
+      "tags": ["Adventure", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  

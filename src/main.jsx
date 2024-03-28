@@ -5,35 +5,11 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import './index.css'
-import Home from './Pages/Home.jsx';
-import Listed from './Pages/Listed.jsx';
-import PagesRead from './Pages/PagesRead.jsx';
-import MainLayouts from './LAyout/MainLayouts.jsx';
+import { router } from './Routes/Routes.jsx';
 
 
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <MainLayouts></MainLayouts>,
-    children:[
-      {
-        path: '/',
-        element: <Home></Home>
-      },
-      {
-        path: "/listed",
-        element: <Listed></Listed>,
-      },
-      {
-        path: "/pagesread",
-        element: <PagesRead></PagesRead>,
-      },
 
-    ]
-  },
- 
-]);
 
 
 
